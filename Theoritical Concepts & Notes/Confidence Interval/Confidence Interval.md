@@ -1,0 +1,6 @@
+A confidence interval is composed of an upper bound and a lower bound that denote the range within which the estimate would be expected to fall if resampled. The bounds are calculated by taking the sample statistic, computed from a subset of the population, and modifying the estimate to include uncertainty. The formula to calculate a confidence interval for a population mean is typically: Confidence Interval = (point estimate) +/- (critical value)*(standard error)
+
+
+The size of a confidence interval can be affected by three factors: the chosen confidence level, the sample's variance, and the sample's size. A higher confidence level leads to a wider interval because of the increased certainty that the true population parameter falls within the range. A larger sample size decreases the standard error of the sample, leading to a smaller margin of error and thus a narrower confidence interval 
+
+A confidence interval is computed at a designated confidence level, such as 95% or 99%. The confidence level represents the proportion of confidence intervals computed at the given confidence level that theoretically contain the true value of the parameter. For example, if you construct a 95% confidence interval, 95% of the intervals should contain the parameter's true value
